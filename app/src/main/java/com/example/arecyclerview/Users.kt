@@ -1,4 +1,4 @@
 package com.example.arecyclerview
 
-data class Users (var name : String, var email:String, var phone : String) {
+data class Users (var id : String, var name :String, var username : String) {
 }
